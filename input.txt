@@ -1,0 +1,5 @@
+peter,6,210,4,I
+henry,6,200,3,Figured
+Luka,6,90,5,this
+Wallace,6,20,6,homework
+William,6,400,7,NOHELP
